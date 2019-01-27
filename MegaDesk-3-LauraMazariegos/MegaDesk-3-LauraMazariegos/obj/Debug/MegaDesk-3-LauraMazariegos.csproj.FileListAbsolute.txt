@@ -1,0 +1,12 @@
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\bin\Debug\MegaDesk-3-LauraMazariegos.exe
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\bin\Debug\MegaDesk-3-LauraMazariegos.pdb
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk-3-LauraMazariegos.csprojAssemblyReference.cache
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk_3_LauraMazariegos.AddQuote.resources
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk_3_LauraMazariegos.MainMenu.resources
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk_3_LauraMazariegos.Properties.Resources.resources
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk-3-LauraMazariegos.csproj.GenerateResource.cache
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk-3-LauraMazariegos.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk-3-LauraMazariegos.exe
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk-3-LauraMazariegos.pdb
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk_3_LauraMazariegos.ViewAllQuotes.resources
+C:\Users\laura\source\repos\MegaDesk-3-LauraMazariegos\MegaDesk-3-LauraMazariegos\obj\Debug\MegaDesk_3_LauraMazariegos.SearchQuotes.resources
